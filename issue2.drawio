@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T08:02:03.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="_Hhv6SWlZABSGBV9QqSz" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-21T08:02:39.545Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="1gGYtlof0tI2ORxKbz4C" version="20.8.20" type="github">
   <diagram name="第 1 页" id="DYrzvRU1nwbpjVwLnzVf">
     <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="310" pageHeight="190" math="0" shadow="0">
       <root>
@@ -33,14 +33,14 @@
         </mxCell>
         <mxCell id="a0m1b-ZxAtpMWGiJwPaL-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="188" y="122.57" as="sourcePoint" />
-            <mxPoint x="218" y="123" as="targetPoint" />
+            <mxPoint x="193" y="122.57" as="sourcePoint" />
+            <mxPoint x="223" y="123" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a0m1b-ZxAtpMWGiJwPaL-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="114" y="122.57" as="sourcePoint" />
-            <mxPoint x="144" y="123" as="targetPoint" />
+            <mxPoint x="110" y="122.57" as="sourcePoint" />
+            <mxPoint x="140" y="123" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="a0m1b-ZxAtpMWGiJwPaL-11" value="(b) Generating the items one by one." style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
