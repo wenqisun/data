@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-22T11:43:42.734Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="PFvVp_BmFs71xsBqHEiX" version="20.8.22" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T11:44:07.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Pbpj1fqvMu4-8WxHvlhb" version="20.8.22" type="github">
   <diagram name="第 1 页" id="VrmpzFLzlZWFYZ5VRnFq">
     <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="600" pageHeight="710" math="0" shadow="0">
       <root>
@@ -523,10 +523,7 @@
           <mxGeometry x="407" y="674.5" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yUtGvciRr7npvoToLHe6-76" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;[mask]&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="522.5" y="676.5" width="27" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="yUtGvciRr7npvoToLHe6-79" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;i&lt;/font&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;(N-1)&lt;/font&gt;&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="479" y="676" width="37" height="30" as="geometry" />
+          <mxGeometry x="523.5" y="676.5" width="27" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yUtGvciRr7npvoToLHe6-80" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;i&lt;/font&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;(N-2)&lt;/font&gt;&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="442" y="676" width="37" height="30" as="geometry" />
@@ -839,6 +836,9 @@
             <mxPoint x="-121" y="568.8095238095239" as="sourcePoint" />
             <mxPoint x="-20" y="652" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yUtGvciRr7npvoToLHe6-79" value="&lt;font style=&quot;&quot; face=&quot;Times New Roman&quot;&gt;&lt;i&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;i&lt;/font&gt;&lt;sub style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;(N-1)&lt;/font&gt;&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="478" y="676" width="37" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
