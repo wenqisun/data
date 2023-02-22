@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-02-21T23:14:57.781Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="ZD9QE_XLjg5QHG7j2Wb2" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-22T01:43:22.666Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="zdicHzGo6JNroz7OjTu5" version="20.8.20" type="github">
   <diagram name="第 1 页" id="DYrzvRU1nwbpjVwLnzVf">
-    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="430" pageHeight="117" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="430" pageHeight="117" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,8 +31,8 @@
         <mxCell id="a0m1b-ZxAtpMWGiJwPaL-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Generating the&amp;nbsp; &amp;nbsp; &amp;nbsp; items one by one.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="313" y="67.67" width="110" height="24" as="geometry" />
         </mxCell>
-        <mxCell id="a0m1b-ZxAtpMWGiJwPaL-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Predicting&amp;nbsp; &amp;nbsp; top-&lt;i&gt;K&lt;/i&gt; items.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="317" y="17" width="74.63" height="20" as="geometry" />
+        <mxCell id="a0m1b-ZxAtpMWGiJwPaL-12" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Predicting top-&lt;i&gt;K&lt;/i&gt;&amp;nbsp;&lt;br&gt;ranked items.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="307" y="17" width="103" height="20" as="geometry" />
         </mxCell>
         <mxCell id="a0m1b-ZxAtpMWGiJwPaL-15" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;Shoe 1&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="29" y="24.999999999999986" width="100.37" height="30" as="geometry" />
