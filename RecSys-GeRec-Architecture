@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-07T20:48:43.834Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="rb6ZTYGeprhy4IrAvUiV" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-07T20:49:03.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="yTEmhzuw0QsmvLaE6k1N" version="20.8.23" type="github">
   <diagram name="第 1 页" id="0dBxEN4DCWTqUfvKjdbj">
     <mxGraphModel dx="1001" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="869" pageHeight="390" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
           <mxGeometry x="669.5" y="246.5" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="ERYWfFTCs41LQbVUZrd4-59" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Encoding items and baskets&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
-          <mxGeometry x="1" y="20" width="243" height="30" as="geometry" />
+          <mxGeometry x="1" y="11" width="243" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ERYWfFTCs41LQbVUZrd4-60" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Noise Augmentation&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="568" y="281.5" width="173" height="30" as="geometry" />
@@ -543,7 +543,7 @@
         <mxCell id="ERYWfFTCs41LQbVUZrd4-233" value="&lt;font size=&quot;1&quot; face=&quot;Helvetica&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 16px;&quot;&gt;Generating next basket of items&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
           <mxGeometry x="566" y="12" width="256" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ERYWfFTCs41LQbVUZrd4-235" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;fontColor=#000000;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="ERYWfFTCs41LQbVUZrd4-16">
+        <mxCell id="ERYWfFTCs41LQbVUZrd4-235" value="" style="curved=1;endArrow=classic;html=1;rounded=0;fontSize=11;fontColor=#000000;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ERYWfFTCs41LQbVUZrd4-201" target="ERYWfFTCs41LQbVUZrd4-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="539" y="129" as="sourcePoint" />
             <mxPoint x="559" y="-61" as="targetPoint" />
